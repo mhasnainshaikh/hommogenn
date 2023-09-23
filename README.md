@@ -1,2 +1,2 @@
-# hommogenn
-My Hommogenn from Complete Web Development course
+# Hommogen
+My Hommogen from Complete Web Development course
